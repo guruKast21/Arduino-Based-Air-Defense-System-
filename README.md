@@ -20,3 +20,9 @@ USB webcam
 HC-SR04 ultrasonic distance sensor
 Laser pointer module
 (Optional) LCD for status display, buzzer for proximity alert
+
+## My Contribution
+
+**Arduino & OpenCV Object Tracking Prototype**
+
+Developed the real-time object detection feature using Python and OpenCV to identify objects in a live camera feed as part of a five-member team project.
